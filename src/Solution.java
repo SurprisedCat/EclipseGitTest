@@ -1,5 +1,4 @@
 import java.util.*;
-package src
 public class Solution {
 
     /*
